@@ -11,3 +11,8 @@ Based on the echo, the ultrasonic sensor "HC-SR04" generates an output signal th
 
 ## COMPONENTS USED
 - ultrasonic sensor
+- Atmega328
+- HC-SR04 (Ultrasonic) sensor
+- LCD display
+- Switches
+- Power Supply

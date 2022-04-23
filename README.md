@@ -1,2 +1,2 @@
 # M2_Embedded_AutoBreaking
-[![Code Grade]([![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/score/svg)](https://www.codiga.io))
+[![Code Grade]([![Code Grade](https://app.codiga.io/public/user/github/Jeyamanojkumar)](https://www.codiga.io))

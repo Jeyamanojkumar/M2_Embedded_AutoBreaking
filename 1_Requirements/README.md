@@ -8,3 +8,6 @@ Throughout the course of this project, we only used the demonstration features. 
 
 ## DESCRIPTION
 Based on the echo, the ultrasonic sensor "HC-SR04" generates an output signal that is proportional to the distance travelled by the ultrasonic signal. Whenever a trigger is triggered, the sensor creates an ultrasonic sound vibration and then waits for the sound vibration to return before proceeding with the rest of its operations. Depending on the parameters, such as the sound speed (220m/s) and the time necessary for the echo to reach its target, it now creates an output pulse that is proportionate to distance. This will allow us to measure distance and determine speed by adding a break to the equation.
+
+## COMPONENTS USED
+- ultrasonic sensor

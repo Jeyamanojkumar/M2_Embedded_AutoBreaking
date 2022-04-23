@@ -16,3 +16,7 @@ Based on the echo, the ultrasonic sensor "HC-SR04" generates an output signal th
 - LCD display
 - Switches
 - Power Supply
+
+## FUEATURES
+- It has weather aid and will function in any conditions.
+- The LCD in this project will provide customers with clear information such as distance, speed, and warning.
